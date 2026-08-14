@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Javierajo2006.Javierajo2006&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Javierajo06.Javierajo06&"  />
 </div>
 
 ###
@@ -27,14 +27,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javierajo2006&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Javierajo2006&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Javierajo2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="140" alt="languages graph"  />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Javierajo06&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Javierajo06&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Javierajo06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="140" alt="languages graph"  />  
 </div>
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javierajo2006/Javierajo2006/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Javierajo2006/Javierajo2006/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Javierajo2006/Javierajo2006/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javierajo06/Javierajo06/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Javierajo06/Javierajo06/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Javierajo06/Javierajo06/output/github-contribution-grid-snake.svg">
 </picture>
